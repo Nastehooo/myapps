@@ -1,0 +1,14 @@
+{
+  "resourceName": "AddingImages",
+  "policyUUID": "cd979358",
+  "bucketName": "myappsc539d2f4474a421791f7a3b559f13565",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
