@@ -20,6 +20,12 @@
       },
       "storage": {
         "AddingImages": {}
+      },
+      "function": {
+        "myapps24ba8aa3": {
+          "deploymentBucketName": "amplify-amplify6a0e548c054c4-staging-f1933-deployment",
+          "s3Key": "amplify-builds/myapps24ba8aa3-687463426b64696d4f43-build.zip"
+        }
       }
     }
   }
